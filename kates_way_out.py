@@ -40,6 +40,7 @@ if best == -1:
     print("Kate cannot get out")
 else:
     print(f"Kate got out in {best} moves")
+    
 
 
 
