@@ -1,5 +1,3 @@
-
-
 number_of_rows = int(input())
 maze = []
 for row in range(number_of_rows):
